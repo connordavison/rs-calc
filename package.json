@@ -1,0 +1,11 @@
+{
+  "name": "rs-calc",
+  "description": "rs-calc",
+  "version": "0.0.0",
+  "license": "ISC",
+  "dependencies": {},
+  "peerDependencies": {},
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
